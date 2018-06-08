@@ -553,4 +553,4 @@ def update_questions(search_word):
 
 # Run app from script. Go to 127.0.0.1:8050 to view
 if __name__ == '__main__':
-    app.run_server(debug=True, port=8050)
+    app.run_server(debug=True)
